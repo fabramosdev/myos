@@ -59,7 +59,7 @@ O que foi usado no projeto:
 <div class="card" id="os_card"></div>
 ```
 
-## :checkered_flag: HTML ##
+## :checkered_flag: CSS ##
 
 ```css
 body {
@@ -80,7 +80,7 @@ body {
 }
 ```
 
-## :checkered_flag: HTML ##
+## :checkered_flag: Javascript ##
 
 ```javascript
 const card = document.getElementById("os_card");
