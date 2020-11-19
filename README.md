@@ -45,7 +45,7 @@
 
 Vanilla Javascript para detectar o seu sistema operacional
 
-acesse online clicando <a href="https://myos.vercel.app/" target="_blank"></a>
+acesse online clicando <a href="https://myos.vercel.app/" target="_blank">AQUI</a>
 
 
 ## :rocket: Technologies ##
